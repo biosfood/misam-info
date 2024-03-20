@@ -1,20 +1,23 @@
-# Misam
-## A backdropbuild Project
+| Misam - A backdropbuild Project | ![](./logo.png) |
+| ------------------------------- | --------------- |
+
 
 ---
+
 
 ## Mission statement
 - Create a loop machine with minimal external tools necessary to make music.
 - No Latency!
-- Success:
-	- Waste time the project.
 - Simple User interface, intuitive usage
-
 ---
 
-## Entymology
+## Tech stack
+- Flutter
+- C++, portaudio
 
-|                  |                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------ |
-| ![](./misam.png) | Misam is the name of a double hypergiant star system 122.22 light years from the sun |
-|                  |                                                                                      |
+---
+## Demo
+
+All audio you hear is generated through Misam
+However, the recording process was heavily streamlined with prerecorded segments.
+Only parts you see being played are the sounds being given to misam.
